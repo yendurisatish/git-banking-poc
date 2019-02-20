@@ -30,47 +30,6 @@
         </div>
     </div>
         </form>
-  <%--  <form id="form1" runat="server">
-    <div>
-    
-                Login Form<br />
-        <br />
-        <p style="display:none" id="pLoginText" runat="server">
-
-        </p>
-        <table style="width: 100%;">
-            <tr>
-                <td>Username&nbsp; :</td>
-                <td>
-                    <asp:TextBox ID="Usernametxt" runat="server"></asp:TextBox>
-                </td>
-                <td>&nbsp;</td>
-            </tr>
-            <tr>
-                <td>Password&nbsp; :</td>
-                <td>
-                    <asp:TextBox ID="Passwordtxt" runat="server" TextMode="password"></asp:TextBox>
-                </td>
-                <td>&nbsp;</td>
-            </tr>
-            <tr>
-                <td>&nbsp;</td>
-                <td>&nbsp;</td>
-                <td>&nbsp;</td>
-            </tr>
-            <tr>
-                <td>
-                    &nbsp;</td>
-                <td>
-                    <asp:Button ID="Loginbtn" runat="server" OnClick="Loginbtn_Click" Text="Login" />
-                </td>
-                <td>&nbsp;</td>
-            </tr>
-        </table>
-        <br />
-        <br />
-    
-    </div>
-    </form>--%>
+ 
 </body>
 </html>
